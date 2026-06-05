@@ -19,3 +19,13 @@ First install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
+
+Then run the simulation with:
+
+```bash
+python run_simulation.py
+
+To change the example system or numerical parameters, edit:
+
+```text
+parameters.py
