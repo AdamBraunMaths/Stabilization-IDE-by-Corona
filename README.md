@@ -19,13 +19,24 @@ First install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 Then run the simulation with:
 
 ```bash
 python run_simulation.py
+```
 
 To change the example system or numerical parameters, edit:
 
 ```text
 parameters.py
+```
+
+## Requirements
+
+The code requires Python 3 and the packages listed in `requirements.txt`.
+
+## Citation
+
+If you use this code, please cite the associated article.
